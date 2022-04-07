@@ -17,3 +17,15 @@
 </h1>
     <img src="https://komarev.com/ghpvc/?username=e-zrilova&style=flat-square&color=blue" alt=""/>
     </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7GUB9ExWUxjiSrKw/giphy.gif" width="400"/>
+</div>
+    
+### 👩‍💻 About Me :
+    
+ 🔥 I am a Frontend Developer.
+   
+
+ :zap: In my free time, I do a lot of self-development, such as doing my own PET-projects or reading articles.
+
+ :mailbox:How to reach me: [![vk Badge](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=tg&logoColor=white)](zrilova)
